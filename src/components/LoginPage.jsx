@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from "./../assets/logo-icon.jpeg"
+import logo from "./../assets/logo-01.png"
 import './LoginPage.css';
 
 function LoginPage() {
